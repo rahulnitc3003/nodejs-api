@@ -1,20 +1,15 @@
 {
-  "name": "tutorial",
+  "name": "weather-app",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Rahul Kumar",
+  "author": "\"Rahul Raj\"",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.18.0",
-    "lodash": "^4.17.10",
     "request": "^2.87.0",
-    "yargs": "^4.7.1"
-  },
-  "devDependencies": {
-    "coffeescript": "^2.3.1"
+    "yargs": "^12.0.1"
   }
 }
